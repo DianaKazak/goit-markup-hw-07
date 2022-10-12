@@ -727,7 +727,7 @@ p {
     flex-direction: column;
 }
 
-.section1-textarea::placeholder {
+.form-element-textarea::placeholder {
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 12px;
