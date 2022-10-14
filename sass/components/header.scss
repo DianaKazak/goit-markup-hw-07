@@ -83,3 +83,10 @@ nav.flex-container {
     font-style: normal;
 
 }
+
+.our-contact-link:hover,
+.our-contact-link:focus {
+    color: #2196F3;
+    fill: #2196F3;
+    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
